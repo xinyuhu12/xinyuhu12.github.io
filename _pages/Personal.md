@@ -7,6 +7,8 @@ author_profile: true
 
 Apart from my research life, I love listening to music, enjoying delicious food, jogging, meditating, and reading tarot. 
 
-My favourite singers are: Hins Cheung, William Wei, Khalil Fong
+My favourite singers include: Hins Cheung, Khalil Fong, Lala Hsu, William Wei. 
 
-My tarot cards include: Universal Waite, Britts Third Eye Tarot, White Numen Tarot, Circe Tarot
+My signature dishes are: Wonton, stewed pork and beef.
+
+Tarot cards that I have: Universal Waite, Britts Third Eye Tarot, Lunalapin Rabbit Tarot, White Numen Tarot, Circe Tarot.
