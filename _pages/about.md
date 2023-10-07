@@ -12,4 +12,4 @@ Hi! I'm a student in the [School of International Relations & Public Affairs](ht
 
 I am currently working with [Prof. Jiejin Zhu](https://faculty.fudan.edu.cn/zhujiejin/zh_CN/index.htm) on international economic institutions from historical, rational choice and sociological institutionalism perspectives.
 
-Pronounce my name: Xinyu Hu _/ʃˈɪnɪˌuː hˈuː/_
+The pronunciation of my name: Xinyu Hu _/ʃˈɪnɪˌuː hˈuː/_
