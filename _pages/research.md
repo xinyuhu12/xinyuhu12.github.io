@@ -6,6 +6,7 @@ author_profile: true
 ---
 # Journal Article
 1. Zhu, Jiejin and **Xinyu Hu**, ”The Effectiveness of Economic Sanctions from an Economic Cost Perspective.” 2023. _Quarterly Journal of International Politics_ (Chinese SSCI) 8(3):1-28. [Link](https://kns.cnki.net/kcms2/article/abstract?v=v0gKrRoz1Uc-j9oSBpDl_nsInltpSRM9s2sk2cTH3P6pXO1O20JmKpw6ZiQG6LmSDQpf8iK4_OoEfaB_IqEKuTD4-jjTWYcJBGnXWiT06YKeeiuZmlWq56OTJYB7rDD-hdvlYa4a5vs=&uniplatform=NZKPT&flag=copy)
+  
   * What are the differences in U.S. sanctions design against Iran? This paper emphasizes that senders should set reasonable and limited sanction goals based on economic-pain-to-political-gain framework.
 
 2. Zhu, Jiejin and **Xinyu Hu**, ”Back to the Iron Cage? Institutional Isomorphism of the AIIB.” 2021. _International Organisations Research Journal_ 16(4): 7-29. [Link](https://iorj.hse.ru/data/2022/03/28/1798707059/1%20Zhu%204-19.pdf)
@@ -14,4 +15,5 @@ author_profile: true
 
 # Working Paper
 1. Zhu, Jiejin and **Xinyu Hu**, ”The Institutional Deference of Emerging Powers: a Rational Choice Perspective.”
+  
   * Why do the levels of institutional deference differ among China-established international institutions? This paper argues that network effects of a policy area and China’s integration levels within existing institutions influenced the level of institutional deference with case studies on CMIM, APSCO and mCBDC Bridge.
