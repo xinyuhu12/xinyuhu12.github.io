@@ -13,5 +13,5 @@ author_profile: true
   * Why has the AIIB, a new multilateral development bank (MDB) initiated by an emerging economy, has undergone institutional isomorphism? Based on the socialization theory, this paper argues that the institutional environment in which the AIIB is operating has a strong influence on AIIBʼs institutionbuilding, mainly through the coercive, mimetic, and normative institutional isomorphic processes.
 
 # Working Paper
-1. Zhu, Jiejin and **Xinyu Hu**, ”The Institutional Deference of Emerging Powers: a Rational Choice Perspective.”
+1. Zhu, Jiejin and **Xinyu Hu**, ”The Institutional Deference of Emerging Powers: a Rational Choice Perspective.” (Under review)
   * Why do the levels of institutional deference differ among China-established international institutions? This paper argues that network effects of a policy area and China’s integration levels within existing institutions influenced the level of institutional deference with case studies on CMIM, APSCO and mCBDC Bridge.
