@@ -15,3 +15,6 @@ author_profile: true
 # Working Paper
 1. Zhu, Jiejin and **Xinyu Hu**, ”The Institutional Deference of Emerging Powers: a Rational Choice Perspective.” (Under review)
   * Why do the levels of institutional deference differ among China-established international institutions? This paper argues that network effects of a policy area and China’s integration levels within existing institutions influenced the level of institutional deference with case studies on CMIM, APSCO and mCBDC Bridge.
+
+2. Xinyu Hu, "Issue Salience and Credible Commitment: U.S. –EU Cooperation on Sanctions." (Master Thesis)
+   * As traditional allies, the U.S. and the EU do not always work in lockstep when initiating sanctions. Under what conditions would the EU choose to cooperate with the U.S. on sanctions? This thesis argues that the issue salience of the sanctioning event, along with the credibility of the U.S. commitment, are important determinants of U.S. –EU cooperation on sanctions based on logistic regression and case studies on sanctions against Iran, Russia and Venezuela.
